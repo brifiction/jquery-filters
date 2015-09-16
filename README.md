@@ -4,7 +4,7 @@ jquery-filters repository contains several examples on how to filter search resu
 ### Description
 This repository contains several examples of how to filter search results with jQuery. 
 
-There are several ways to approach this, however this example is focused on the use of jQuery selectors (<a href="https://api.jquery.com/category/selectors/" target="_blank">here</a>) and the use of ".hide()" and ".css()".
+There are several ways to approach this, however this example is focused on the use of jQuery selectors (<a href="https://api.jquery.com/category/selectors/" target="_blank">here</a>) and the use of <code>.hide()</code> and <code>.css()</code>.
 
 In my opinion, the use of regular expressions is fundamental to any form of filtering returned or sent data. Click <a href="http://www.regexr.com/" target="_blank">here</a> for a useful regex online tool to experiment and test your expressions.
 
