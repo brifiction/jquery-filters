@@ -1,5 +1,5 @@
 # jquery-filters
-This contains several examples on how to filter search results with jQuery.
+jquery-filters repository contains several examples on how to filter search results with jQuery.
 
 ### Description
 Several examples of how to filter search results with jQuery. There are several ways to approach this functionality, however this example will be focusing a lot on the emphasis of ".hide()" and ".css()". 
@@ -11,6 +11,10 @@ If you need an apache server, I use Apache Tomcat for Java development. The down
 Download Apache Tomcat here: http://tomcat.apache.org/index.html
 
 Download jquery here: https://jquery.com/download/
+
+Note: jQuery-UI is not necessary for this example but its useful if you'd like to use it for your project.
+
+Download jquery-ui here: http://jqueryui.com/download/
 
 ### API Reference
 
