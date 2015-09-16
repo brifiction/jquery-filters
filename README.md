@@ -22,6 +22,10 @@ jQuery have a ton of functionalities and it is important to keep an update on it
 
 jQuery API Documentation: https://api.jquery.com/
 
+jQuery UI is an extension of jQuery and it is a valuable asset. It is catered to full functionality customization and with great integration with other plugins. For example, the most popular usage is the datepicker function, which you may have seen it implemented in most web applications from both private and government sectors.
+
+jQuery UI API Documentation: https://api.jqueryui.com/
+
 ### Tests
 
 Describe and show how to run the tests with code examples.
