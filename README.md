@@ -52,3 +52,7 @@ The MIT License is a free software license originating at the Massachusetts Inst
 Source: https://en.wikipedia.org/wiki/MIT_License
 
 Additional Information: http://choosealicense.com/
+
+### README.md Mastering Markdown
+
+https://guides.github.com/features/mastering-markdown/
