@@ -5,7 +5,6 @@
       xmlns:f="http://java.sun.com/jsf/core">
   <head>
     <title>EXAMPLE RESOURCE</title>
-    <meta name="generator" content="SilverStripe - http://silverstripe.org">
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
     <meta name="description" content="Example Resource">
 
@@ -13,7 +12,7 @@
 
     <link rel="stylesheet" type="text/css" href="css/normalize.css" />
 
-    <script type="text/javascript" src="js/jquery-1.11.3.min.js" ></script> 
+    <script type="text/javascript" src="js/jquery-1.11.3.min.js" ></script>
     <script type="text/javascript" src="js/jquery-ui.js" ></script>
 
     <script type="text/javascript" src="js/list.js" ></script>
@@ -351,14 +350,14 @@
       <div class="catalogue-record" data-id="AAA" data-category="banking books">Law of Bank Payments</div>
       <div class="catalogue-record" data-id="BBB" data-category="company-law banking books conference-papers">New Zealand Company Law and Practice</div>
       <div class="catalogue-record" data-id="CCC" data-category="banking books conference-papers journals">Law of Commercial Companies</div>
-      <div class="catalogue-record" data-id="DDD" data-category="employment-law finance looseleafs">Employee Relations Law</div> 
+      <div class="catalogue-record" data-id="DDD" data-category="employment-law finance looseleafs">Employee Relations Law</div>
     </div>
 
     <div class="catalogue-results">
-      <div class="catalogue-record" data-id="EEE" data-category="corporations-law looseleafs journal-articles">Corporations Law</div> 
-      <div class="catalogue-record" data-id="FFF" data-category="corporations-law looseleafs files">Company Law and Practice</div>  
+      <div class="catalogue-record" data-id="EEE" data-category="corporations-law looseleafs journal-articles">Corporations Law</div>
+      <div class="catalogue-record" data-id="FFF" data-category="corporations-law looseleafs files">Company Law and Practice</div>
       <div class="catalogue-record" data-id="GGG" data-category="company-law finance online-services">Principles of Company Law</div>
-      <div class="catalogue-record" data-id="HHH" data-category="banking building-law files">Modern Banking Law</div>  
+      <div class="catalogue-record" data-id="HHH" data-category="banking building-law files">Modern Banking Law</div>
     </div>
 
   </body>
