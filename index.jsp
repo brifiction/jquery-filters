@@ -6,7 +6,7 @@
   <head>
     <title>EXAMPLE RESOURCE</title>
     <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Example Resource">
+    <meta name="description" content="jQuery Filters Example Resource">
 
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
 
@@ -61,7 +61,7 @@
             });
             $lis.hide();
 
-            console.log(selector);
+            console.log(selector); /* FOR TESTING ONLY, OPEN BROWSER CONSOLE */
 
             $('.catalogue-results > div').hide().filter(selector).show();
           } else {
@@ -135,7 +135,8 @@
       <input type="button" class="sort" data-sort="author" value="Sort by author"/>
       <input type="button" class="sort" data-sort="availability" value="Sort by availability"/>
 
-      <!--  <ul class="list">
+      <!--
+      <ul class="list">
               <li>
                 <h3 class="title">Test Title 1</h3>
                 <p class="author">Gray, Walter</p>
@@ -146,7 +147,8 @@
                 <p class="author">Doe, John</p>
                 <p class="availability">Adelaide</p>
               </li>
-            </ul>-->
+            </ul>
+      -->
 
       <div class="list">
 
