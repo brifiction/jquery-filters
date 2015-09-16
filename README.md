@@ -27,3 +27,5 @@ Describe and show how to run the tests with code examples.
 The MIT License is a free software license originating at the Massachusetts Institute of Technology (MIT).[1] It is a permissive free software license, meaning that it permits reuse within proprietary software provided all copies of the licensed software include a copy of the MIT License terms and the copyright notice. Such proprietary software retains its proprietary nature even though it incorporates software under the MIT License. The license is also GPL-compatible, meaning that the GPL permits combination and redistribution with software that uses the MIT License.
 
 Source: https://en.wikipedia.org/wiki/MIT_License
+
+Additional Information: http://choosealicense.com/
