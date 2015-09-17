@@ -1,6 +1,13 @@
 # jquery-filters
 jquery-filters repository contains several examples on how to filter search results with jQuery.
 
+## Table of contents
+- [Description](#description)
+- [Installation](#installation)
+- [Testing and Understanding](#testing-and-understanding)
+- [API Reference](#api-reference)
+- [License](#license)
+
 ### Description
 This repository contains several examples of how to filter search results with jQuery. Total of four examples, which are titled:
 
