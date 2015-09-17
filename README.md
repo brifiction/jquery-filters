@@ -2,9 +2,14 @@
 jquery-filters repository contains several examples on how to filter search results with jQuery.
 
 ### Description
-This repository contains several examples of how to filter search results with jQuery. 
+This repository contains several examples of how to filter search results with jQuery. Total of four examples, which are titled:
 
-There are several ways to approach this, however this example is focused on the use of jQuery selectors (<a href="https://api.jquery.com/category/selectors/" target="_blank">here</a>) and the use of <code>.hide()</code> and <code>.css()</code>.
+* JQuery Text Field Filter
+* JQuery Checkbox Filter Results
+* JQuery List (based from http://www.listjs.com/)
+* JQuery Filter Forbidden Characters
+
+There are several ways to approach this, however this example is focused on the use of jQuery <code>.filter()</code> and the use of <code>.hide()</code> and <code>.css()</code>. Other examples demonstrate different jQuery the use of other functions for most commonly-used purposes, however always refer to the jQuery API documentation for more information on each function used for better understanding. 
 
 In my opinion, the use of regular expressions is fundamental to any form of filtering returned or sent data. Click <a href="http://www.regexr.com/" target="_blank">here</a> for a useful regex online tool to experiment and test your expressions.
 
@@ -43,7 +48,7 @@ You'll notice that the attribute <code>data-category</code> have two values (sep
 Parent Category: <b>fruit</b><br>
 Child Category: <b>apple</b>
 
-However, <code>data-id</code> does not contribute much at the moment but later in implementation, you may come across certain scenarios that you may need this type of attribute, whether it is the ISBN number of a book or employee ID number to match the employee's gathered information.
+However, <code>data-id</code> does not contribute much at the moment but later in implementation, you may come across certain scenarios that you may need this type of attribute, whether it is the ISBN number of a book or employee ID number to match the employee's gathered information, thus acting as a primary key in your database.
 
 ### License
 
