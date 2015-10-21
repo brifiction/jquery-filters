@@ -55,7 +55,7 @@ You'll notice that the attribute <code>data-category</code> have two values (sep
 Parent Category: <b>fruit</b><br>
 Child Category: <b>apple</b>
 
-However, <code>data-id</code> does not contribute much at the moment but later in implementation, you may come across certain scenarios that you may need this type of attribute, whether it is the ISBN number of a book or employee ID number to match the employee's gathered information, thus acting as a primary key in your database.
+However, <code>data-id</code> does not contribute much at the moment but later in implementation, you may come across certain scenarios that you may need this type of attribute, whether it is the ISBN number of a book or employee ID number to match the employee's gathered information, thus acting as a primary key reference in your database.
 
 ### License
 
